@@ -2,14 +2,13 @@
 Solomon Islands
 Household data
 -------------------------------------------------------------------------------
-Rolando Gonzales
 This script uses the tablabs command, which can be downloaded here:
 https://github.com/rogon666/tablabs
 ==============================================================================*/
 
 ********************************************************************************
 **# (0) Loading data
-use "Z:\UpWork\UpWork2022\Solomon\db\HH_2021.dta", clear
+use "db/HH_2021.dta", clear
 
 ********************************************************************************
 **# (1) Cleaning
